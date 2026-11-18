@@ -1,0 +1,23 @@
+ADIM 1- Browserde bir sekme açýp adres çubuðuna     chrome://extensions/   
+yazarak eklenti sayfasýna gidin. 
+
+ADIM 2- Sað üstteki geliþtirici modunu aktif edin. 
+
+ADIM3- Rar dosyasýndan çýkan klasörü soldaki "Paketlenmiþ öðeleri yükle" týklayarak eklentiyi ekleyin.
+
+Hepsi bu kadar.
+
+
+Rarlý dosyayý indirmek istemiyorsanýz dosyalarý;
+
+Background.js
+Content.js
+icon.png
+Manifest.json
+Popup.html
+Popup.js
+
+indirip bir klasör isimlendirip bu dosyalarý o klasör içine ekleyin. Adým 2 ve 3 ü uygulayýn. 
+
+
+
